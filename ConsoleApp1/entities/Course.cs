@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace homeWork.Entities
 {
-    internal class Course
+    public class Course
     {
         public int ID { get; set; }
         public string Name { get; set; }
