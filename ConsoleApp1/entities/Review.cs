@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace homeWork.Entities
 {
-    internal class Review
+    public class Review
     {
         public int ID { get; set; }
 
